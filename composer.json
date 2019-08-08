@@ -1,0 +1,19 @@
+{
+    "name": "krasaler/mypackage",
+    "description": "mypackage",
+    "authors": [
+        {
+            "name": "Alex Krasnij",
+            "email": "krasaler@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "files": [
+          "test.php"
+        ],
+        "psr-4": {
+          "Krasaler\\MyPackage\\": ""
+        }
+      }
+}
