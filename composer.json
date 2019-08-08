@@ -1,7 +1,7 @@
 {
     "name": "krasaler/mypackage",
     "description": "mypackage",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "authors": [
         {
             "name": "Alex Krasnij",
@@ -14,7 +14,7 @@
           "test.php"
         ],
         "psr-4": {
-          "Krasaler\\MyPackage\\": ""
+          "Krasaler\\Package\\": ""
         }
       }
 }
