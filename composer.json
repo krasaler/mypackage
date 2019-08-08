@@ -1,6 +1,7 @@
 {
     "name": "krasaler/mypackage",
     "description": "mypackage",
+    "version": "0.1.0",
     "authors": [
         {
             "name": "Alex Krasnij",
